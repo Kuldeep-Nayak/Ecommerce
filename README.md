@@ -1,7 +1,6 @@
 
-<img src='https://user-images.githubusercontent.com/100137935/221491634-4c0c56fb-d7a2-4978-a2e2-3c7d9014c6e8.jpg' width="500" height='200' justify-content= 'center'>
 
-Vestra (Myntra Clone) is a one stop shop for all your fashion and lifestyle needs. Being India's largest e-commerce store for fashion and lifestyle products, a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.
+Vastra is a one stop shop for all your fashion and lifestyle needs. Being India's largest e-commerce store for fashion and lifestyle products, a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.
 
 # <span style="color:red"> Tech Stack Used: </span>
 
