@@ -1,6 +1,6 @@
 
 
-Burberry is a one stop shop for all your fashion and lifestyle needs. Being the largest e-commerce store for fashion and lifestyle products, a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.
+Burberry, a myntra clone is a one stop shop for all your fashion and lifestyle needs. Being the largest e-commerce store for fashion and lifestyle products, a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.
 
 # <span style="color:red"> Tech Stack Used: </span>
 
