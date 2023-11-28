@@ -1,6 +1,3 @@
-# <span style="color:red">[Vestra](https://vastra-rho.vercel.app) Clone of [Myntra.com](https://www.Myntra.com/) Website </span>
-
-# <span style="color:red"> Welcome to Vestra</span>
 
 <img src='https://user-images.githubusercontent.com/100137935/221491634-4c0c56fb-d7a2-4978-a2e2-3c7d9014c6e8.jpg' width="500" height='200' justify-content= 'center'>
 
@@ -40,11 +37,5 @@ I have used React, Chakra, JS, Html, Css to made this project.
 ![WhatsApp Image 2023-02-27 at 11 52 33 AM](https://user-images.githubusercontent.com/100137935/221491278-a84741f8-39f1-4335-ab16-f09bf9460e98.jpeg)
 
 <hr>
-
-# Collaborators (Team members):-
-- Devendra Singh(Team Lead)
-- Prince Sharma
-- Ravi Kumar 
-- Ruchi Priya Kumari
 
 - ## <span style="color:green"> Thank You </span>
