@@ -11,30 +11,35 @@ I have used React, Chakra, JS, Html, Css to made this project.
 - ## <span style="color:blue"> Home Page: Header & Carousel </span>
 <br />
 
-![image](https://github.com/Kuldeep-Nayak/Ecommerce/assets/138770146/00906913-3c74-4bf3-912e-9da28b607e41)
+![Image_01](https://github.com/Kuldeep-Nayak/Ecommerce/assets/138770146/552a659d-d4de-4b01-b831-4cd9373154d9)
+
 
 
 - ## <span style="color:blue"> Men Page </span>
 <br />
 
-![WhatsApp Image 2023-02-27 at 11 53 48 AM](https://user-images.githubusercontent.com/100137935/221491477-9b20e511-5ff9-40ac-9af1-a0f5231334c6.jpeg)
+![Image_02](https://github.com/Kuldeep-Nayak/Ecommerce/assets/138770146/1185ef01-7f40-4449-9e21-120d050907b1)
+
 
 
 - ## <span style="color:blue"> Women Page </span>
 <br />
 
-![WhatsApp Image 2023-02-27 at 11 53 49 AM](https://user-images.githubusercontent.com/100137935/221490593-f47193e8-86b6-40c4-bad3-e815ed5bbbb4.jpeg)
+![Image_03](https://github.com/Kuldeep-Nayak/Ecommerce/assets/138770146/74b92c23-9283-406a-9fa0-821eec8b2f5a)
+
 
 - ## <span style="color:blue"> Login Page </span>
 <br />
 
-![WhatsApp Image 2023-02-27 at 11 52 32 AM](https://user-images.githubusercontent.com/100137935/221491141-ba2671b8-4581-4b1a-bcde-9f49506d932b.jpeg)
+![Image_04](https://github.com/Kuldeep-Nayak/Ecommerce/assets/138770146/642d968b-1737-4889-a661-28bca2b6f04e)
+
 
 
 - ## <span style="color:blue"> Admin Page </span>
 <br />
 
-![WhatsApp Image 2023-02-27 at 11 52 33 AM](https://user-images.githubusercontent.com/100137935/221491278-a84741f8-39f1-4335-ab16-f09bf9460e98.jpeg)
+![Image_05](https://github.com/Kuldeep-Nayak/Ecommerce/assets/138770146/9568aac4-4986-4424-a8f2-6adb78313e31)
+
 
 <hr>
 
