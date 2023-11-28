@@ -11,7 +11,7 @@ I have used React, Chakra, JS, Html, Css to made this project.
 - ## <span style="color:blue"> Home Page: Header & Carousel </span>
 <br />
 
-![image](https://github.com/Kuldeep-Nayak/Ecommerce/assets/138770146/ef273663-47cc-4dd0-8703-f63a1149cdb6)
+![image](https://github.com/Kuldeep-Nayak/Ecommerce/assets/138770146/00906913-3c74-4bf3-912e-9da28b607e41)
 
 
 - ## <span style="color:blue"> Men Page </span>
