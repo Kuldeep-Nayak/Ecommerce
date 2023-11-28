@@ -6,7 +6,7 @@ Vastra is a one stop shop for all your fashion and lifestyle needs. Being India'
 
 I have used React, Chakra, JS, Html, Css to made this project.
 
-### Snapshots of Vestra project :- 
+### Snapshots of project :- 
 
 - ## <span style="color:blue"> Home Page: Header & Carousel </span>
 <br />
